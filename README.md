@@ -1,18 +1,17 @@
 
-# Project : Parallax Website 
+# Project : Grid Flex
 [CLİCK](https://ilkaybasboga.github.io/hw-flex-grid/)
 
 ## Description
-I aimed to create a project Website Page Design.
+I aimed to create a project  Grid Flex.
 
 
 ## Project Skeleton 
 
 ```
-Website Page Design. (folder)
+ Grid Flex (folder)
 |
-|----README.md               
-|---- img (images)            
+|----README.md                         
 |----index.html  
 |----style.css   
   
@@ -26,6 +25,6 @@ Website Page Design. (folder)
 
 - Step 2:CSS fire,
 
-- Step 3: Created Website
+- Step 3: Created  Grid Flex
  
 - Step 4: Submit your app to your own public repository on Github
